@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there! <img src="https://raw.githubusercontent.com/RashidKhanAp/rashidkhanap/main/wave.gif" width="30px"> <img src="https://github.com/user-attachments/assets/4da0de96-1f7b-4dba-aab5-da645d07a155" width="74px"> 
+## Hi there! <img src="https://github.com/user-attachments/assets/4da0de96-1f7b-4dba-aab5-da645d07a155" width="30px"> <img src="https://github.com/user-attachments/assets/4da0de96-1f7b-4dba-aab5-da645d07a155" width="74px"> 
 
 I'm Rashid Ap, people call me Khan/Jawan. I am not a professional in coding or hacking. But.. I have skills. You know how you feel when your child brings you a picture they drew, and you’re not sure if it’s a dinosaur or Daddy, but the drawing is awesome because your sweet kid put the effort into it? I think that’s how coding should be. Don’t worry if it’s perfect. It’s fun! You can always tell people you meant for it to be a dinosaur. 
 
@@ -30,6 +30,7 @@ I'm always open to collaborating on projects and innovative/disruptive ideas. Fi
 
 [![Instagram Badge](https://img.shields.io/badge/-rashidkhanap-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rashidkhanap/)](https://www.instagram.com/rashidkhanap)
 [![Youtube Badge](https://img.shields.io/badge/-rashidkhanap-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@rashidkhanap)](https://www.youtube.com/@rashidkhanap)
+[![Youtube Badge](https://img.shields.io/badge/-CYBERTACTS-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@CYBERTACTS)](https://www.youtube.com/@CYBERTACTS)
 [![Facebook Badge](https://img.shields.io/badge/-rashidkhanapfbp-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashidkhanapfbp/)](https://www.facebook.com/rashidkhanapfbp)
 [![Gmail Badge](https://img.shields.io/badge/-mr.rashidkhanap@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.rashidkhanap@gmail.com)](mailto:mr.rashidkhanap@gmail.com)
 
