@@ -29,9 +29,9 @@ I'm always open to collaborating on projects and innovative/disruptive ideas. Fi
 
 
 [![Instagram Badge](https://img.shields.io/badge/-rashidkhanap-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rashidkhanap/)](https://www.instagram.com/rashidkhanap)
-[![Youtube Badge](https://img.shields.io/badge/-rashidkhanap-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCS40hlV5jz-yQfazRrTXcWA)](https://www.youtube.com/channel/UCS40hlV5jz-yQfazRrTXcWA)
+[![Youtube Badge](https://img.shields.io/badge/-rashidkhanap-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@rashidkhanap)](https://www.youtube.com/@rashidkhanap)
 [![Facebook Badge](https://img.shields.io/badge/-rashidkhanapfbp-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashidkhanapfbp/)](https://www.facebook.com/rashidkhanapfbp)
-[![Gmail Badge](https://img.shields.io/badge/-rashidapjawan2017@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rashidapjawan2017@gmail.com)](mailto:rashidapjawan2017@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mr.rashidkhanap@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.rashidkhanap@gmail.com)](mailto:mr.rashidkhanap@gmail.com)
 
 ## ⚡ Technologies
 
@@ -64,10 +64,10 @@ I'm always open to collaborating on projects and innovative/disruptive ideas. Fi
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=RashidKhanAp&count_public=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashidKhanAp&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RashiKhanAp&count_public=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashiKhanAp&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rashidkhanap)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rashikhanap)
 
 
 
