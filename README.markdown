@@ -1,9 +1,9 @@
 <p align="left corner">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RashidKhanAp&theme=yeblu&show_icons=true)"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RashiKhanAp&theme=yeblu&show_icons=true)"></a>
 </p>
 
 <!--
-**RashidKhanAp/rashidkhanap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RashiKhanAp/rashikhanap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there! <img src="https://raw.githubusercontent.com/RashidKhanAp/rashidkhanap/main/wave.gif" width="30px">
+## Hi there! <img src="https://raw.githubusercontent.com/RashidKhanAp/rashidkhanap/main/wave.gif & https://github.com/user-attachments/assets/4da0de96-1f7b-4dba-aab5-da645d07a155" width="30px">
 
 I'm Rashid Ap, people call me Khan/Jawan. I am not a professional in coding or hacking. But.. I have skills. You know how you feel when your child brings you a picture they drew, and you’re not sure if it’s a dinosaur or Daddy, but the drawing is awesome because your sweet kid put the effort into it? I think that’s how coding should be. Don’t worry if it’s perfect. It’s fun! You can always tell people you meant for it to be a dinosaur. 
 
