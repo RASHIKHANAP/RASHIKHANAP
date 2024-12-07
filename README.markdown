@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there! <img src="https://github.com/user-attachments/assets/5cc76f12-1568-403e-9574-f838c3c28954" width="60px"> <img src="https://github.com/user-attachments/assets/4da0de96-1f7b-4dba-aab5-da645d07a155" width="74px"> 
+## Hi there! <img src="[https://github.com/user-attachments/assets/5cc76f12-1568-403e-9574-f838c3c28954](https://private-user-images.githubusercontent.com/180107379/365613150-5cc76f12-1568-403e-9574-f838c3c28954.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM1ODIxNzIsIm5iZiI6MTczMzU4MTg3MiwicGF0aCI6Ii8xODAxMDczNzkvMzY1NjEzMTUwLTVjYzc2ZjEyLTE1NjgtNDAzZS05NTc0LWY4MzhjM2MyODk1NC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwN1QxNDMxMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iM2EyNzZhNWVlM2Y2MWEwYmE2OWM4ZTNlYmRkNDM5MGY3YjZkODllYmFkYmYwNWU2MWExZGVhMGVjMGE3YWEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.qRGM3e7CW36GSgPnMPF5PWYi7C3Eomv_Q_wrV87QJUQ)" width="60px"> <img src="https://github.com/user-attachments/assets/4da0de96-1f7b-4dba-aab5-da645d07a155" width="74px"> 
 
 I'm Rashid Ap, people call me Khan/Jawan. I am not a professional in coding or hacking. But.. I have skills. You know how you feel when your child brings you a picture they drew, and you’re not sure if it’s a dinosaur or Daddy, but the drawing is awesome because your sweet kid put the effort into it? I think that’s how coding should be. Don’t worry if it’s perfect. It’s fun! You can always tell people you meant for it to be a dinosaur. 
 
