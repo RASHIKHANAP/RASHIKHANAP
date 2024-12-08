@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there! <img src="https://i.ibb.co/CQzYcGC/had-wave.gif" width="90" height="90">
+## Hi there! <img src="https://camo.githubusercontent.com/b80e074265abf55f62056bb1df9e47725da0601eb5aa2cb980f85fe5ea03b69d/68747470733a2f2f692e6962622e636f2f43517a596347432f6861642d776176652e676966" width="90" height="90">
 
 
 I'm Rashid Ap, people call me Khan/Jawan. I am not a professional in coding or hacking. But.. I have skills. You know how you feel when your child brings you a picture they drew, and you’re not sure if it’s a dinosaur or Daddy, but the drawing is awesome because your sweet kid put the effort into it? I think that’s how coding should be. Don’t worry if it’s perfect. It’s fun! You can always tell people you meant for it to be a dinosaur. 
